@@ -24,5 +24,6 @@
 @endforeach
 </tbody>
 </table>
+JYRCEIN KEN I. VALMOCINA
 </div>
 @endsection
