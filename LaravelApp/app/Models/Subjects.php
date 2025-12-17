@@ -15,3 +15,4 @@ class Subjects extends Model
         return $this->belongsToMany(User::class,'user_subjects','subject_id','user_id');
      }
 }
+// CastroJohnMArk

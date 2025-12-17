@@ -41,3 +41,4 @@ Route::get('add_user_subject/{id}',
 
 Route::get('/assign_subject/{user_id}/{subject_id}',action: [UserController::class,'assign_subject'])->name(name:'assign_subject');
 //Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+//Jyrcein Ken Valmocina setup done
