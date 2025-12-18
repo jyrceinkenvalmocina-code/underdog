@@ -8,6 +8,7 @@
 <th>Email</th>
 <th>Role</th>
 <th>Action</th>
+    <th>Canoza, Paul Andrei H.</th>
 </thead>
 <tbody>
 @foreach($users as $user)
