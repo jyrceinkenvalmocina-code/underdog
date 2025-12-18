@@ -24,6 +24,6 @@
 @endforeach
 </tbody>
 </table>
-    <a>DE GUZMAN, MARK JUSTINE C.</a>
+
 </div>
 @endsection
